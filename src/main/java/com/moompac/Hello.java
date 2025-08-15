@@ -1,4 +1,4 @@
-package main.java.com.moompac;
+package com.moompac;
 
 /**
  * @author cmsxyz@163.com
